@@ -1,5 +1,7 @@
 ## Business
 * [100 Saastr Tips & Tricks from conference attendees](https://www.saastr.com/wp-content/uploads/2019/03/SaaStr-Tips-Tricks-Ebook-Vol.1.pdf)
+* [Valve Employee Handbook](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
+* [Gitlab Handbook](https://handbook.gitlab.com/)
 
 ## AI
 * [PDF Extraction](https://github.com/ngafar/llama-scan)
@@ -24,3 +26,5 @@
 * Pako deflate/inflate for shifting bulk data efficienty.
 * XXHash3 is the fastest hashing library.
 
+## Music
+* [strudel.cc](strudel.cc)
