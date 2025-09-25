@@ -1,6 +1,8 @@
 ## Business
 * [100 Saastr Tips & Tricks from conference attendees](https://www.saastr.com/wp-content/uploads/2019/03/SaaStr-Tips-Tricks-Ebook-Vol.1.pdf)
-* 
+
+## AI
+* [PDF Extraction](https://github.com/ngafar/llama-scan)
 
 ## Frontend / Style / CSS
 * [Sane Typographic Default Stylesheet](https://github.com/clagnut/TODS/)
@@ -21,4 +23,4 @@
 ## Node.js
 * Pako deflate/inflate for shifting bulk data efficienty.
 * XXHash3 is the fastest hashing library.
-* 
+
